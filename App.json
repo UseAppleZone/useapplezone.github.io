@@ -1,0 +1,14 @@
+[
+  {
+    "AppName": "AppleZone",
+    "AppDeveloper": "Benjamin",
+    "AppIcon": "https://useapplezone.com/AppleZoneIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/AppleZone.plist",
+    "AppBanner": "https://appinstallerios.com/Img/Banner.png",
+    "Twitter": "UseAppleZone",
+    "Website": "https://UseAppleZone.com",
+    "AppScreenshots": [
+    ],
+    "AppSlider": true
+  }
+]
